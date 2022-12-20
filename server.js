@@ -1,6 +1,8 @@
 // server.js
 const { createServer } = require("http");
-const { parse } = require("url");
+const {
+  parse,
+} = require("https://gitamnewweb.gitam.edu/nextjs-crypto-api-main/");
 const next = require("next");
 
 const dev = process.env.NODE_ENV !== "production";
