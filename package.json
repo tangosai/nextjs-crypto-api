@@ -2,11 +2,11 @@
   "name": "nextjs-crypto-api",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://gitamnewweb.gitam.edu/nextjs-crypto-api-main/",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "NODE_ENV=production node server.js",
-    "lint": "next lint"
+    "start": "NODE_ENV=production node server.js"
   },
   "dependencies": {
     "axios": "^1.2.0",
